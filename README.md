@@ -1,2 +1,2 @@
 # Generative-AI-Models
-Text_to_Image
+Text to Image model
